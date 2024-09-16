@@ -5,6 +5,7 @@
 
 **Learning Outcome : 1 - Software Development Lifecycle** <br/>
 K1 - All stages of the software development life cycle (what each stage contains, including the inputs and outputs)
+
 K3 - The roles and responsibilities of the project life cycle within your organisation, and your role
 
 **Learning Outcome : 2 - Effective Communications and Team work** <br/>
