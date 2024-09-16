@@ -1,28 +1,23 @@
 
-#Learning Criteria
+# Learning Criteria
 
-##Knowledge
+## Knowledge
 
-*Learning Outcome : 1 - Software Development Lifecycle*
+**Learning Outcome : 1 - Software Development Lifecycle**
 K1 - All stages of the software development life cycle (what each stage contains, including the inputs and outputs)
 K3 - The roles and responsibilities of the project life cycle within your organisation, and your role
 
-
-*Learning Outcome : 2 - Effective Communications and Team work*
+**Learning Outcome : 2 - Effective Communications and Team work**
 K4 - How best to communicate using the different communication methods and how to adapt appropriately to different audiences
 
+## Skills
 
-
-##Skills
-
-*Learning Outcome : 2 - Effective Communications and Team work*
+**Learning Outcome : 2 - Effective Communications and Team work**
 S15 - Communicate software solutions and ideas to technical and non-technical stakeholders
 
+## Behavior
 
-
-##Behavior
-
-*Learning Outcome : Demonstrates a range of behaviours as required by the apprenticeship standard*
+**Learning Outcome : Demonstrates a range of behaviours as required by the apprenticeship standard**
 B10 - Committed to continued professional development
 B4 - Works collaboratively with a wide range of people in different roles, internally and externally, with a positive attitude to inclusion and diversity
 B7 - Communicates effectively in a variety of situations to both a technical and non- technical audience

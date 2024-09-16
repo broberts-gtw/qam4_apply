@@ -5,17 +5,21 @@ This step details your workplace activity brief for this module.
 
 By now, you should have a good grasp of some of the different techniques and tools we use to produce a wide variety of applications and the way developers go about writing code and test their applications.
 
+
 In this activity, you will investigate your business project’s life cycle processes and DevOps implementation. You will use your knowledge of software design and DevOps to conduct a range of activities at your workplace in order to answer the following:
+* What is your current project’s method of development?
+* What are the different roles and responsibilities within the life cycle of this project?
+* How is DevOps employed within your project?
+* How have you implemented DevOps practices and principles within your project?
 
-What is your current project’s method of development?
-What are the different roles and responsibilities within the life cycle of this project?
-How is DevOps employed within your project?
-How have you implemented DevOps practices and principles within your project?
+
+
 You are to create two outputs:
+* A document of findings that will be added to your portfolio.
+* A presentation that can be delivered to any stakeholder in your project – technical or otherwise – discussing project structure, roles, and systems. This presentation is to be presented to both a technical and non-technical audience.
+* For your submission, please can you add the presentation slide deck to your report and highlight who you presented to, what content you have presented and any feedback provided from those who attended the presentation on your communication/presentation skills.
 
-A document of findings that will be added to your portfolio.
-A presentation that can be delivered to any stakeholder in your project – technical or otherwise – discussing project structure, roles, and systems. This presentation is to be presented to both a technical and non-technical audience.
-For your submission, please can you add the presentation slide deck to your report and highlight who you presented to, what content you have presented and any feedback provided from those who attended the presentation on your communication/presentation skills.
+
 You will be required to target your writing to address the mapped knowledge, skills, and behaviours – which are listed on the following step. 
 
 Remember, the workplace case study that you produce will be used to demonstrate evidence of your knowledge at the end-point assessment. 
